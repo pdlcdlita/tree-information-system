@@ -1,0 +1,56 @@
+html,body{
+	width: 100%;
+	height: auto;
+}
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+.tree_img
+{
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.tree_name
+{
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-bottom: 0px;
+	font-size: 30px;
+}
+
+.uid
+{
+	font-weight: bold;
+	font-size: 18px;
+	margin-bottom: 22px;
+}
+
+table
+{
+	width: 100%;
+	font-size: 28px;
+}
+
+td
+{
+	padding: 50px;
+	text-align: justify;
+}
+
+.heading
+{
+	align-items: top;
+}
+
+.footer
+{
+	font-size: 20px;
+	padding: 8px;
+	background: #0f0f0f;
+	color: #ffffff;
+	text-align: center;
+}
